@@ -1,0 +1,61 @@
+  .logo {
+    float: left;
+    width: 130px;
+    height: 100px;
+    line-height: 100px;
+    cursor: pointer;
+  }
+
+  .iconfont-logo {
+    font-size: 40px;
+    color: #FF4466;
+  }
+
+  .store {
+    margin-left: 10px;
+    font-size: 30px;
+    color: #FF4466;
+  }
+  
+ .num-box {
+    float: left;
+    width: 95px;
+    height: 25px;
+    text-align: center;
+    border: 1px solid #ddd;
+  }
+
+  .num-box span {
+    float: left;
+    width: 24px;
+    height: 25px;
+    line-height: 25px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  .num-reduce,
+  .num-add {
+    color: #666;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  .num-input {
+    width: 44px;
+    height: 24px;
+    color: #000;
+    font-size: 14px;
+    text-align: center;
+    border: 0;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    float: left;
+  }
+
+  .numClass {
+    color: #eee;
+    font-weight: normal;
+  }
+
+  
